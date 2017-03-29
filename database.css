@@ -1,0 +1,31 @@
+.bg {
+	background-image: url(http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/07/white-background-4.jpg);
+	background-repeat: no-repeat;
+	background-image: fill: all;
+}
+.above-gap {
+	margin-top: 70px;
+}
+
+.left-gap {
+	margin-left: 40px;
+}
+
+.table-size {
+	width: 250px;
+}
+
+.box {
+	height: 30px;
+	width: 180px;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+
+.tables {
+	width: 400px;
+}
+
+.gap {
+	margin-left: 20px;
+}
